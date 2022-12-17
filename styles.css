@@ -1,0 +1,41 @@
+body {
+    background-color: #EAE7DC;
+}
+
+p, li {
+    font-family: Verdana, "Times New Roman", sans-serif;
+    color: #8E8D8A;
+    text-align: match-parent;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    font-family: "apercu", sans-serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 44px;
+    color: #E85A4F;
+}
+
+h2, h3 {
+    font-family: "apercu", sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    color: #E98074;
+}
+
+a {
+    position: relative;
+    display: inline-block;
+    line-height: normal;
+    color: #827968;
+    cursor: pointer;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
